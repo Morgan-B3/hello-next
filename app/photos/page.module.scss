@@ -1,0 +1,17 @@
+.items{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: auto;
+    width: 85%;
+    justify-content: center;
+}
+
+.item{
+    flex-basis: 32rem;
+}
+
+.title{
+    text-align: center;
+    margin: 1rem 0;
+}
